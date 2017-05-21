@@ -1,4 +1,0 @@
-sceneSetups:
-- path: C:/Users/airwoo4win/Documents/Unity/MyFirstGame/Assets/tutorial1.unity
-  isLoaded: 1
-  isActive: 1
